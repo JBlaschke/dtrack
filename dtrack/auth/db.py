@@ -4,7 +4,6 @@ from dataclasses import dataclass
 from .key import Key
 
 
-
 @dataclass
 class DBKey(Key):
     host:str

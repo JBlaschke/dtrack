@@ -2,7 +2,6 @@ from os          import environ
 from dataclasses import dataclass
 
 
-
 @dataclass
 class Key:
     username:str
